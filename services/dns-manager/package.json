@@ -11,6 +11,11 @@
   },
   "private": true,
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "nodemon": "^1.19.1",
+    "pg": "^7.10.0",
+    "pg-promise": "^8.7.2",
+    "postgrator": "^3.10.1",
+    "url-parse": "^1.4.7"
   }
 }
